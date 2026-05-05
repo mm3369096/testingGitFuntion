@@ -5,15 +5,17 @@
 ---
 
 ## ✨ 核心特色
-*   **快速開發**：採用高效能框架，極速部署。
-*   **模組化設計**：結構清晰，易於擴充與維護。
-*   **多端支援**：完美適配桌面與行動裝置。
+
+- **快速開發**：採用高效能框架，極速部署。
+- **模組化設計**：結構清晰，易於擴充與維護。
+- **多端支援**：完美適配桌面與行動裝置。
 
 ## 🛠️ 技術棧 (Tech Stack)
-*   **Frontend**: React, Tailwind CSS
-*   **Backend**: Node.js, Express
-*   **Database**: MongoDB
-*   **DevOps**: Docker, GitHub Actions
+
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **DevOps**: Docker, GitHub Actions
 
 ## 📦 安裝步驟
 
@@ -22,3 +24,5 @@
 1. **複製專案**
    ```bash
    git clone [https://github.com/your-username/your-project-name.git](https://github.com/your-username/your-project-name.git)
+   好
+   ```
